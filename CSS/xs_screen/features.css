@@ -1,0 +1,18 @@
+/* xs_screen */
+
+.feature-text {
+    font-size:10px;
+}
+
+.feature img {
+    width: 100%;
+    height: auto;
+}
+
+.feature {
+    margin-top: -38px;
+}
+
+.empty-small {
+    height: 125px;
+}

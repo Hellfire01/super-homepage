@@ -1,0 +1,19 @@
+/* big screen */
+
+#arrow-presentation-text {
+    font-size:36px;
+    margin-bottom: 30px;
+}
+
+#arrow-text {
+    font-size:18px;
+    margin-top: 50px;
+}
+
+#big-arrow {
+    left:-10px;
+}
+
+#bubble-text {
+    left:-35px;
+}

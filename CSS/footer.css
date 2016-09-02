@@ -1,0 +1,15 @@
+#footer-div {
+    background-color: #1F1B1C;
+}
+
+#footer-div {
+    height : 75px;
+}
+
+#footer-text {
+    font-family: 'Open Sans', sans-serif;
+    font-weight:600;
+    text-align: center;
+    color: #F0F0F0;
+    margin-top: -10px;
+}

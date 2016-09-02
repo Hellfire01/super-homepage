@@ -1,0 +1,35 @@
+/* xs_screen */
+
+.hero {
+    height: 300px;
+    text-align: center;
+}
+
+.hero-text-big {
+    margin-top: 25px;
+    margin-left:10px;
+    text-align: center;
+    font-size:18px;
+}
+
+.hero-text-small {
+    font-size:10px;
+    margin-top:10px;
+    margin-bottom: 25px;
+    margin-left: 0px;
+    text-align: center;
+}
+
+#demo-button-hero {
+    margin-left: 0px;
+    text-align: center;
+    font-size: 10px;
+    padding: 7px 20px 7px 20px;
+}
+
+#demo-button-hero2 {
+    margin-left: 0px;
+    text-align: center;
+    font-size: 10px;
+    padding: 7px 20px 7px 20px;
+}

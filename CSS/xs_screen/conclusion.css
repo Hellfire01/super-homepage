@@ -1,0 +1,16 @@
+/* xs-screen */
+
+#conclusion-text {
+    font-size:12px;
+    margin-top: 20px;
+}
+
+#button-conclusion {
+    text-align: center;
+    font-size: 10px;
+    padding: 7px 20px 7px 20px;
+}
+
+#conclusion-div {
+    height: 125px;
+}

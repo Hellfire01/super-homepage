@@ -1,0 +1,37 @@
+/* xs_screen */
+
+#box-presentation-text {
+    font-size:13px;
+    margin-bottom: 24px;
+    margin-top: 25px;
+    margin-left: 20px;
+}
+
+#box-list-text {
+    font-size:11px;
+}
+
+#hand {
+}
+
+#hand img {
+}
+
+.col-xs-7 {
+    width: 100%;
+}
+
+#hand-hand {
+    top: 450px;
+    right: 45px;
+}
+
+#hand-button {
+    top: 230px;
+    right: 7px;
+}
+
+#waves {
+    top: 196px;
+    right: 36px;
+}

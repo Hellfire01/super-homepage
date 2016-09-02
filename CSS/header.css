@@ -1,0 +1,55 @@
+/*header stuff here*/
+
+#header {
+    height : 75px;
+    background-color: #2F2B2C;
+    border: none;
+    z-index: 10000;
+}
+
+#title {
+    color: white;
+    text-align: left;
+    margin-top: 13px;
+    margin-left: 100px;
+}
+
+.navbar-default .navbar-nav .header-text {
+    font-weight:normal;
+    color:#ffffff;
+    letter-spacing:1pt;
+    word-spacing:1pt;
+    text-align:left;
+    font-family: 'Open Sans', sans-serif;
+    line-height:1;
+}
+
+.navbar-default .navbar-nav .header-text:hover {
+    color:#ffffff;
+    text-decoration: none;
+}
+
+.navbar-nav li a {
+    padding-top: 25px;
+}
+
+.navbar-toggle {
+    margin-top: 18px;
+}
+
+#demo-button-header {
+    font-weight:normal;
+    color:#CCBA15;
+    border: 1px solid #CCBA15;
+    letter-spacing:1pt;
+    word-spacing:1pt;
+    text-align:left;
+    font-family: 'Open Sans', sans-serif;
+    line-height:1;
+    margin-top: 18px;
+}
+
+#demo-button:hover {
+    color:#CCBA15;
+    text-decoration : none;    
+}

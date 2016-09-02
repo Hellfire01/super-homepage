@@ -1,0 +1,13 @@
+/* small screen */
+
+#people-list-text {
+    font-size:12px;
+}
+
+#people-presentation-text {
+    font-size:24px;
+}
+
+#people {
+    left: 50px;
+}

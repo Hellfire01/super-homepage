@@ -1,0 +1,72 @@
+
+#people-div {
+    height : 400px;
+    background: linear-gradient(50deg, #E2F26C, #29CF91, #6EF55A);
+}
+
+#people-presentation-text {
+    font-weight:normal;
+    color:#FFEF00;
+    letter-spacing:1pt;
+    word-spacing:0pt;
+    font-size:36px;
+    text-align:left;
+    font-family: 'Open Sans', sans-serif;
+    line-height:1;
+    margin-top: 75px;
+    margin-bottom: 30px;
+}
+
+#people-list-text {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    font-weight:normal;
+    color:#F0F0F0;
+    letter-spacing:1pt;
+    word-spacing:0pt;
+    text-align:left;
+    font-family: 'Open Sans', sans-serif;
+    line-height:1;
+}
+
+.people-list-margin {
+    background: url("../assets/shared/bullet.png") no-repeat 0px -3px;
+    margin: 0;
+    padding: 0;
+    padding-left: 35px;
+    margin-left: 15px;
+    padding-bottom: 5px;
+}
+
+#people-text {
+}
+
+#people {
+    position : absolute;
+    top: 20px;
+}
+
+#computer {
+    position: absolute;
+    top: 150px;
+    left: 60px;
+}
+
+#cog-people-0 {
+    position: absolute;
+    top: 50px;
+    left: 60px;
+}
+
+#cog-people-1 {
+    position: absolute;
+    top: 120px;
+    left: 125px;
+}
+
+#cog-people-2 {
+    position: absolute;
+    top: 120px;
+    left: 80px;
+}

@@ -1,0 +1,19 @@
+/* small screen */
+
+.hero-text-big {
+    font-size:24px;
+}
+
+.hero-text-small {
+    font-size:12px;
+}
+
+#demo-button-hero {
+    font-size: 12px;
+    padding: 7px 20px 7px 20px;
+}
+
+#demo-button-hero2 {
+    font-size: 12px;
+    padding: 7px 20px 7px 20px;
+}

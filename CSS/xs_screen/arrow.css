@@ -1,0 +1,30 @@
+/* xs_screen */
+
+#arrow-presentation-text {
+    text-align: center;
+    font-size: 13px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+#arrow-text {
+    font-size:10px;
+    margin-top: 50px;
+    margin-right: 50px;
+}
+
+#big-arrow {
+    left:0px;
+}
+
+#bubble-text {
+    left: 75px;
+}
+
+#arrow-div .col-xs-6 {
+    width: 100%;
+}
+
+#arrow-div .col-xs-10 {
+    width: 350px;
+}

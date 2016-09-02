@@ -1,0 +1,14 @@
+/* small screen */
+
+#box-presentation-text {
+    font-size:24px;
+    margin-bottom: 24px;
+}
+
+#box-list-text {
+    font-size:11px;
+}
+
+#hand {
+    right: 10px;
+}

@@ -1,0 +1,30 @@
+/* xs_screen */
+
+#people-list-text {
+    font-size:11px;
+}
+
+#people-presentation-text {
+    margin-top: 20px;
+    text-align: center;
+    font-size:13px;
+}
+
+#people {
+    left: 50px;
+}
+
+#cog-people-0 {
+    top: 250px;
+    left: 110px;
+}
+
+#cog-people-1 {
+    top: 320px;
+    left: 175px;
+}
+
+#cog-people-2 {
+    top: 320px;
+    left: 130px;
+}

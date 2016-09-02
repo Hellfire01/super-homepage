@@ -1,0 +1,12 @@
+/* big screen */
+
+.header-text {
+    font-size:18px;
+    padding: 25px;
+}
+
+#demo-button-header {
+    font-size:18px;
+    padding: 7px;
+    margin-right: 15px;
+}

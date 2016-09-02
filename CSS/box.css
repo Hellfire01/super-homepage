@@ -1,0 +1,157 @@
+/* blue box part here */
+
+#box-section {
+    height : 400px;
+    background: linear-gradient(45deg, #25C1EF, #127AAD);
+}
+
+#box-presentation-text {
+    font-weight:normal;
+    color:#3CD2F0;
+    letter-spacing:1pt;
+    word-spacing:0pt;
+    text-align:left;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600;
+    line-height:1;
+    margin-top: 100px;
+}
+
+#box-list-text {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    font-weight:normal;
+    color:#F0F0F0;
+    letter-spacing:1pt;
+    word-spacing:0pt;
+    text-align:left;
+    font-family: 'Open Sans', sans-serif;
+    line-height:1;
+}
+
+.box-list-margin {
+    margin: 0;
+    padding: 0;
+    padding-bottom: 5px;
+    margin-top: 10px;
+    background: url("../assets/shared/bullet.png") no-repeat 0px -3px;
+    padding-left: 35px;
+    margin-left: 15px;
+}
+
+#box {
+    overflow: hidden;
+    position: absolute;
+    width: 400px;
+    height: 500px;
+    left: -25px;
+}
+
+#box-part-back {
+    position: absolute;
+    top: 218px;
+    left: 75px;
+}
+
+#box-part-front {
+    position: absolute;
+    top: 242px;
+    left: 61px;
+}
+
+#box-drink {
+    position: absolute;
+		width: 45px;
+    height: auto;
+    top: -50px;
+    left: 140px;
+}
+
+#box-pie {
+    position: absolute;
+    top: -50px;
+    left: 250px;
+}
+
+#box-calendar {
+    position: absolute;
+    top: -50px;
+    left: 230px;
+}
+
+#box-windows {
+    position: absolute;
+    top: -50px;
+    left: 125px;
+}
+
+#box-wow {
+    position: absolute;
+		width: 50px;
+    height: auto;
+		top: -70px;
+    left: 70px;
+}
+
+#box-chart {
+    position: absolute;
+    top: -50px;
+    left: 125px;
+}
+
+#box-playstore {
+    position: absolute;
+    top: -60px;
+    left: 300px;
+}
+
+#box-money {
+    position: absolute;
+    top: -60px;
+    left: 300px;
+}
+
+#box-world {
+    position: absolute;
+    top: -50px;
+    left: 250px;
+}
+
+#hand {
+    overflow: hidden;
+    position: absolute;
+    width: 200px;
+    height: 400px;
+}
+
+#hand-hand {
+    position: absolute;
+    animation-duration: 3s;
+    top: 430px;
+    right: 95px;
+}
+
+#hand-button {
+    position: absolute;
+    top: 210px;
+    right: 57px;
+}
+
+#hand-wave-small {
+    position: absolute;
+    top: 21px;
+    left: 22px;
+}
+
+#hand-wave-big {
+    position: absolute;
+}
+
+#waves {
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    top: 176px;
+    right: 86px;
+}

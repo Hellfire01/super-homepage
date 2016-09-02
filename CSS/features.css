@@ -1,0 +1,46 @@
+/*the 3 icons here*/
+
+.empty-small {
+    height : 250px;
+}
+
+.feature-text {
+    text-align: center;
+}
+
+.img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom : 20px;
+}
+
+.feature {
+    margin-top: -87px;
+}
+
+.feature-text {
+    font-weight:bold;
+    text-transform:uppercase;
+    letter-spacing:1pt;
+    word-spacing:3pt;
+    font-family: 'Open Sans', sans-serif;
+    font-weight:600;
+    line-height:1;
+}
+
+.orange-feature {
+    color:#F0C300;
+}
+
+.blue-feature {
+    color:#21ABCD;
+}
+
+.green-feature {
+    color:#00AB66;
+}
+
+.feature2 {
+		line-height: 250px;
+}
